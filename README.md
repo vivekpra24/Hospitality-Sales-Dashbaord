@@ -1,0 +1,3 @@
+# Hospitality-Sales-Dashbaord
+The data contains information about sales of a hospitality company.. They have hotels all across the globe...
+This data includes information and data of Goa, India region... a sales dashboard is prepaired on it to showcase the trends for better future prediction..
